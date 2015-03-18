@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Android Projet3 ChateauE</string>
-    <string name="menu_list">Liste des patients</string>
-    <string name="menu_import">Importer les patients</string>
-    <string name="menu_export">Exporter les patients</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-</resources>
